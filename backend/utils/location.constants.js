@@ -1,0 +1,5 @@
+export const LOCATION_PING_TYPES = {
+  CHECK_IN: "CHECK_IN",
+  CHECK_OUT: "CHECK_OUT",
+  LIVE_TRACK: "LIVE_TRACK",
+};

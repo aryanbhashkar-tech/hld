@@ -1,0 +1,4 @@
+2026-05-14T06:34:24.785Z [ERROR]: error: column "employee_code" of relation "users" does not exist
+    at C:\Users\aryan\Desktop\DIFM-Attendance-App\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async main (file:///C:/Users/aryan/Desktop/DIFM-Attendance-App/backend/scripts/createTestUsers.js:24:9)
